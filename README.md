@@ -27,7 +27,7 @@ Selling or Billing
 ```
 After **typing one of the two**, you are prompted to **choose a date**, for example:
 ```
-jan / 18
+jan/18
 ```
 After choosing the date will open a new screen with the data according to the result that the bot has mined.
 
