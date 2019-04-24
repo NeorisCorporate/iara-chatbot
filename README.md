@@ -1,5 +1,5 @@
 # Iara-Chatbot
- **Prototype named Iara**, for displaying tables from **artificial intelligence** and **data mining**. **All programming logic** for **dynamic table** creation has been created, but it is not running.
+ **Prototype named Iara**, to displaying tables from **artificial intelligence** and **data mining**. **All programming logic** for **dynamic table** creation has been created, but it is not running.
 
 This **repository** is designed for **studies of artificial intelligence and data mining**, therefore, **Frontend** may contain **some problems and elements finalized**.
 
